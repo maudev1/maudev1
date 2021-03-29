@@ -1,7 +1,7 @@
 <h1>Olá</h1>
 
 <div>
- <p>Meu nome é Mauricio, sou líder de projetos e entusiasta de Javascript, desenvolvo minhas propias soluções para facilitar minha rotina de trabalho, sou apaixonado por programação.
+ <p>Meu nome é Mauricio, sou líder de projetos e desenvolvedor front-end, desenvolvo minhas propias soluções para facilitar minha rotina de trabalho, sou apaixonado por programação.
 </p>
 </div>
 
