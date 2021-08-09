@@ -1,7 +1,7 @@
 <h1>Olá</h1>
 
 <div>
- <p>Meu nome é Mauricio, sou desenvolvedor web, e amo tecnologia, abaixo estão minhas stacks qeu trabalho atualmente e outras tecnologias que uso nos projetos pessoais.
+ <p>Meu nome é Mauricio, sou desenvolvedor web, e amo tecnologia, abaixo estão as tecnologias que trabalho atualmente e as tecnologias que uso em projetos pessoais.
 </p>
 </div>
 
