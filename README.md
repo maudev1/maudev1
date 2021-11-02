@@ -1,41 +1,30 @@
-<h1>Olá</h1>
+## Olá, meu nome é Maurício.
+
+Trabalho com full-stack
 
 <div>
- <p>Meu nome é Mauricio, sou desenvolvedor web, e amo tecnologia, abaixo estão as tecnologias que trabalho atualmente e as tecnologias que uso em projetos pessoais.
-</p>
+
+ <img src="https://github-readme-stats.vercel.app/api?username=maudev1&show_icons=true&theme=dracula&include_all_commits=true"></img>
+
 </div>
 
-<h2>Stacks</h2>
+<h3>Tecnologias que ultilizo</h3>
+
+<div style="display:inline_block">
  
- <h3>Job<h3>
- <!--HTML-->
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor" />
+  <img src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor" /> 
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" /> 
+  <img src="https://icongr.am/devicon/php-plain.svg?size=50&color=eeeeec" />
+  <img src="https://icongr.am/devicon/mysql-plain.svg?size=50&color=currentColor">
  
- <!--CSS-->
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  
- <!--js-->
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+<h3> Tecnologias que estou estudando</h3>
+<div style="display:inline_block">
+  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor" />
+  <img src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=4e9a06" />
+
  
- <!--jQuery-->
- <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 
- <!--PHP-->
- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-
- <!--myslq-->
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
- <h3>Hobby</h3>
- 
- <!--VUEJS-->
- <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
- 
- <!--NODEJS-->
- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-
- <!--HEROKU-->
- <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-
-
-
+</div>
