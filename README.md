@@ -8,7 +8,7 @@ Trabalho com full-stack
 
 </div>
 
-<h3>Tecnologias que ultilizo</h3>
+<h3>Tecnologias que utilizo</h3>
 
 <div style="display:inline_block">
  
