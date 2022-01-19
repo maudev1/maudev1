@@ -1,14 +1,13 @@
 ## Olá, meu nome é Maurício.
 
-Trabalho com full-stack
-
+Trabalho como web-developer
 <div>
 
  <img src="https://github-readme-stats.vercel.app/api?username=maudev1&show_icons=true&theme=dracula&include_all_commits=true"></img>
 
 </div>
 
-<h3>Tecnologias que utilizo</h3>
+<h3>Tecnologias</h3>
 
 <div style="display:inline_block">
  
@@ -20,7 +19,7 @@ Trabalho com full-stack
  
  
 </div>
-<h3> Tecnologias que estou estudando</h3>
+<h3>Estudando</h3>
 <div style="display:inline_block">
   <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor" />
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=4e9a06" />
