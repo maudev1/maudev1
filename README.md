@@ -13,17 +13,10 @@ Trabalho como web-developer
  
   <img src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor" />
   <img src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor" /> 
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" /> 
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" />  
+  <img src="https://icongr.am/devicon/vuejs-original.svg?size=50&color=currentColor" />
+  <img src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=4e9a06" />
   <img src="https://icongr.am/devicon/php-plain.svg?size=50&color=eeeeec" />
   <img src="https://icongr.am/devicon/mysql-plain.svg?size=50&color=currentColor">
- 
- 
-</div>
-<h3>Estudando</h3>
-<div style="display:inline_block">
-  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor" />
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=4e9a06" />
-
- 
-
+  
 </div>
