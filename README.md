@@ -1,22 +1,5 @@
-## Olá, meu nome é Maurício.
+Olá, sou desenvolvedor web júnior apaixonado por tecnologia e pela criação de soluções para a web. Tenho experiência em linguagens como PHP, HTML, CSS, JavaScript, entre outras, e estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
 
-Trabalho como web-developer
-<div>
+Estou entusiasmado em trabalhar em projetos desafiadores e contribuir com uma equipe criativa e colaborativa. Sou uma pessoa pró-ativa, sempre disposta a aprender e a oferecer soluções criativas.
 
- <img src="https://github-readme-stats.vercel.app/api?username=maudev1&show_icons=true&theme=dracula&include_all_commits=true"></img>
-
-</div>
-
-<h3>Tecnologias</h3>
-
-<div style="display:inline_block">
- 
-  <img src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor" />
-  <img src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor" /> 
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" />  
-  <img src="https://icongr.am/devicon/vuejs-original.svg?size=50&color=currentColor" />
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=4e9a06" />
-  <img src="https://icongr.am/devicon/php-plain.svg?size=50&color=eeeeec" />
-  <img src="https://icongr.am/devicon/mysql-plain.svg?size=50&color=currentColor">
-  
-</div>
+Se você está procurando um desenvolvedor web júnior, sinta-se à vontade para entrar em contato comigo. Estou aberto a novas oportunidades e desafios que possam ajudar a me desenvolver profissionalmente.
