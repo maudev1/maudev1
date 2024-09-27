@@ -1,5 +1,3 @@
-Olá, sou desenvolvedor web júnior apaixonado por tecnologia e pela criação de soluções para a web. Tenho experiência em linguagens como PHP, HTML, CSS, JavaScript, entre outras, e estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
+Desenvolvedor web pleno com experiência em Laravel, Vue.js, jQuery, MySQL e ambiente Linux. Tenho conhecimentos em Node.js, Shell Script e Python atualmente estou estudando React. Sempre em busca de aprimorar minhas habilidades.
 
-Estou entusiasmado em trabalhar em projetos desafiadores e contribuir com uma equipe criativa e colaborativa. Sou uma pessoa pró-ativa, sempre disposta a aprender e a oferecer soluções criativas.
-
-Se você está procurando um desenvolvedor web júnior, sinta-se à vontade para entrar em contato comigo. Estou aberto a novas oportunidades e desafios que possam ajudar a me desenvolver profissionalmente.
+Estou aberto a novos desafios. Vamos conversar?
