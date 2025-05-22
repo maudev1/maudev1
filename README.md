@@ -1,3 +1,5 @@
-Desenvolvedor web pleno com experiência em Laravel, Vue.js, jQuery, MySQL e ambiente Linux. Tenho conhecimentos em Node.js, Shell Script e Python atualmente estou estudando React. Sempre em busca de aprimorar minhas habilidades.
+Desenvolvedor PHP, atualmente trabalhando com a stack Laravel, Vue.js e MySQL em ambiente Linux (Debian). Tenho também conhecimentos em Node.js, Shell Script, Go e Python.
 
-Estou aberto a novos desafios. Vamos conversar?
+Atualmente, estou estudando React e Go para desenvolvimento backend.
+
+Estou aberto a novos desafios e oportunidades. Bora conversar?
